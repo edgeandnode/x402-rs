@@ -1,3 +1,9 @@
+DELETE THIS REPO ONCE THIS PR IS MERGED: https://github.com/x402-rs/x402-rs/pull/87
+Need to update gateway code as well.
+
+---
+
+
 # x402-rs
 
 [![Crates.io](https://img.shields.io/crates/v/x402-types.svg)](https://crates.io/crates/x402-types)
